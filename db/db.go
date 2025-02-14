@@ -11,7 +11,7 @@ import (
 
 const (
 	DB_USER     = "postgres"
-	DB_PASSWORD = "Chaimayousfi30!"
+	DB_PASSWORD = "monmp!"
 	DB_NAME     = "hetic_cdn"
 	DB_HOST     = "localhost"
 	DB_PORT     = "5432"
